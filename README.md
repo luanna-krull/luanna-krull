@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="=" alt="Gif mine pink " width="300"/>
+  <img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif" width="300"/>
 </p>
 
 
