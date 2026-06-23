@@ -1,3 +1,9 @@
+<p align="center">
+  <img src= "https://pin.it/3gx67Jt3H" alt="foto do começo" width="300"/>
+</p>
+
+
+
 # Olá, mundo! 👋 Eu sou o [Seu Nome ou Apelido]
 
 <p align="center">
