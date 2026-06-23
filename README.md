@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://pin.it/3gx67Jt3H" alt="foto do começo" width="300"/>
+  <img src= "https://share.google/HuZsfDKOmnJ6qayBL" alt="Gif mine pink " width="300"/>
 </p>
 
 
