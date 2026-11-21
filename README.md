@@ -14,9 +14,9 @@
 
 </div>
 
-       Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
+Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
 
-       Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
+Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela UMESP.
 
@@ -48,7 +48,7 @@
 
 </div>
 
-    Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explorar novas tecnologias e contribuir para projetos que ofereçam soluções eficientes, inovadoras e de qualidade.
+Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explorar novas tecnologias e contribuir para projetos que ofereçam soluções eficientes, inovadoras e de qualidade.
 
 ---
 
