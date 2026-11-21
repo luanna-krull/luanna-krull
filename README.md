@@ -54,6 +54,14 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 
 <div align="center">
 
+
+## 🌎 IDIOMAS
+
+- 🇧🇷 **Português:** Fluente
+- 🇺🇸 **Inglês:** Básico a intermediário
+- 🇪🇸 **Espanhol:** Básico
+
+
 # 📡 CONTATO
 
 <a href="mailto:luanna_krull@hotmail.com">
