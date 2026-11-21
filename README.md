@@ -10,19 +10,19 @@
 
 <div align="center">
 
-# 💜 SOBRE MIM
+# 💜🌸SOBRE MIM
 
 </div>
 
-Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
+       Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
 
-Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
+       Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
-🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** pela UMESP.
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela UMESP.
 
 💻 Desenvolvimento, manutenção e otimização de sistemas.
 
-🚀 Sempre buscando aprender e desenvolver soluções eficientes.
+🚀✨ Sempre buscando aprender e desenvolver soluções eficientes.
 
 ---
 
@@ -30,12 +30,13 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 # ⚡ TECH STACK
 
-<img src="https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/ORACLE_APEX-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/ORACLE_REPORTS-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/ORACLE_DATABASE-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF"/>
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=violet" />
+    <img src="https://img.shields.io/badge/ORACLE_APEX-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/ORACLE_REPORTS-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/ORACLE_DATABASE-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
 
 </div>
 
@@ -47,7 +48,7 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 </div>
 
-Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explorar novas tecnologias e contribuir para projetos que ofereçam soluções eficientes, inovadoras e de qualidade.
+    Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explorar novas tecnologias e contribuir para projetos que ofereçam soluções eficientes, inovadoras e de qualidade.
 
 ---
 
@@ -55,9 +56,9 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 
 # 📡 CONTATO
 
-<a href="mailto:luanna_krull@hotmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
-</a>
+     <a href="mailto:luanna_krull@hotmail.com">
+       <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
+     </a>
 
 </div>
 
@@ -66,5 +67,5 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:240046,65:7B2CBF,100:C77DFF&height=150&section=footer" width="100%" alt="Rodapé roxo"/>
   <br/>
-  **SYSTEM ONLINE // SOFTWARE DEVELOPER**
+  **🌸SYSTEM ONLINE // SOFTWARE DEVELOPER🌸**
 </div>
