@@ -1,47 +1,42 @@
-<!--
-  GITHUB PROFILE README
-  TEMA: FUTURISTA | CYBERPUNK | PRETO E ROXO
--->
+```markdown
+<!-- BANNER ORIGINAL -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif" width="740" alt="Banner futurista"/>
+</div>
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif"
-       width="100%"
-       alt="Banner futurista roxo"/>
-</p>
+<div align="center">
 
-<!-- ANIMAÇÃO DE TEXTO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;SOFTWARE+DEVELOPER;WELCOME+TO+MY+DIGITAL+WORLD;ORACLE+APEX+%7C+PL%2FSQL+%7C+ORACLE+REPORTS"
-       alt="Apresentação futurista"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER;ORACLE+APEX+%7C+PL%2FSQL;WELCOME+TO+MY+DIGITAL+WORLD" alt="Texto animado"/>
 
-<!-- DIVISÓRIA -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4B0082,100:9D4EDD&height=3&section=header&width=100%"/>
-</p>
+</div>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT%20ME-1A1025?style=for-the-badge&labelColor=000000&color=7B2CBF"/>
-  <br/>
-  💜 Sobre mim
-</h2>
+---
 
-<p align="center">
-  Sou <strong>Desenvolvedora de Software</strong>, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
-</p>
+<div align="center">
 
-<p align="center">
-  Atualmente trabalho na <strong>Frama Consultoria e Assessoria em Informática LTDA.</strong>
-</p>
+# 💜 ABOUT ME
 
-<p align="center">
-  🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UMESP.
-  <br/>
-  💻 Desenvolvimento, manutenção e otimização de sistemas.
-  <br/>
-  🚀 Aprendizado contínuo e inovação tecnológica.
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:000000&height=2&section=header&width=80
+Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com experiência no desenvolvimento de soluções utilizando tecnologias Oracle.
+
+Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
+
+🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** pela UMESP.
+
+💻 Atuação com desenvolvimento, manutenção e otimização de sistemas.
+
+🚀 Sempre buscando aprender, evoluir e desenvolver soluções eficientes.
+
+---
+
+<div align="center">
+
+# ⚡ TECH STACK
+
+### `DATABASE & DEVELOPMENT`
+
+<img src="https://img.shields.io/badge/PL%2FSQL-10001A?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/ORACLE_APEX-10001A?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/ORACLE_REPORTS-10001A?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/ORACLE_DATABASE-10001A?style=for-the-badge&logo=oracle&logoColor=C77DFF"/
