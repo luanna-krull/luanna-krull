@@ -27,7 +27,7 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 🚀✨ Sempre buscando aprender e desenvolver soluções eficientes.
 
 
-## 🎓 FORMAÇÃO ACADÊMICA E CURSOS
+## 🎓 FORMAÇÃO ACADÊMICA
 - Graduada em **Análise e Desenvolvimento de Sistemas** pela UMESP.
 ---
 
