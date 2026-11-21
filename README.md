@@ -30,13 +30,13 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 # ⚡ TECH STACK
 
-    <img src="https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=violet" />
-    <img src="https://img.shields.io/badge/ORACLE_APEX-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-    <img src="https://img.shields.io/badge/ORACLE_REPORTS-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-    <img src="https://img.shields.io/badge/ORACLE_DATABASE-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
-    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF"/>
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=violet" />
+ <img src="https://img.shields.io/badge/ORACLE_APEX-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/ORACLE_REPORTS-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/ORACLE_DATABASE-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF"/>
+ <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
 
 </div>
 
