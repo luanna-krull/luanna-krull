@@ -60,6 +60,14 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
 </a>
 
+<a href="https://www.linkedin.com/in/luannakrull/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=violet" />
+</a>
+
+<a href="https://www.instagram.com/luannaakrull/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=violet" />
+</a>
+
 </div>
 
 ---
