@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# 💜🌸SOBRE MIM
+# 💜🌸 SOBRE MIM 🌸💜
 
 </div>
 
@@ -33,7 +33,7 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 <div align="center">
 
-# ⚡ TECH STACK
+# ⚡ TECH STACK ⚡
 
  <img src="https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=violet" />
@@ -49,7 +49,7 @@ Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
 <div align="center">
 
-# 🌌 OBJETIVOS PROFISSIONAIS
+# 🌌 OBJETIVOS PROFISSIONAIS 🌌
 
 </div>
 
@@ -60,14 +60,14 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 <div align="center">
 
 
-## 🌎 IDIOMAS
+## 🌎 IDIOMAS 🌎
 
 - **Português(🇧🇷):** Fluente
 - **Inglês(🇺🇸):** Básico a intermediário
 - **Espanhol(🇪🇸):** Básico
 
 
-# 📡 CONTATO
+# ✨ CONTATO ✨
 
 <a href="mailto:luanna_krull@hotmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
@@ -88,5 +88,5 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:240046,65:7B2CBF,100:C77DFF&height=150&section=footer" width="100%" alt="Rodapé roxo"/>
   <br/>
-  **🌸SYSTEM ONLINE // SOFTWARE DEVELOPER🌸**
+  **🌸 SYSTEM ONLINE // SOFTWARE DEVELOPER 🌸**
 </div>
