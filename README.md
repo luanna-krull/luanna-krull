@@ -19,8 +19,9 @@ Atualmente, atuo na **Frama Consultoria e Assessoria em Informática LTDA.**, tr
 
 
 💻 Tecnologias e ferramentas
-- Oracle APEX
 - PL/SQL
+- CC+
+- Oracle APEX
 - Oracle Reports
 - Oracle Database
 - Git e GitHub
