@@ -22,12 +22,13 @@ Sou **Desenvolvedora de Software**, apaixonada por tecnologia e inovação, com 
 
 Atualmente trabalho na **Frama Consultoria e Assessoria em Informática LTDA.**
 
-🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela UMESP.
-
 💻 Desenvolvimento, manutenção e otimização de sistemas.
 
 🚀✨ Sempre buscando aprender e desenvolver soluções eficientes.
 
+
+## 🎓 FORMAÇÃO ACADÊMICA E CURSOS
+- Graduada em **Análise e Desenvolvimento de Sistemas** pela UMESP.
 ---
 
 <div align="center">
