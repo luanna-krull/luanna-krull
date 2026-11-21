@@ -57,9 +57,9 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 
 ## 🌎 IDIOMAS
 
-- 🇧🇷 **Português:** Fluente
-- 🇺🇸 **Inglês:** Básico a intermediário
-- 🇪🇸 **Espanhol:** Básico
+- **Português(🇧🇷):** Fluente
+- **Inglês(🇺🇸):** Básico a intermediário
+- **Espanhol(🇪🇸):** Básico
 
 
 # 📡 CONTATO
