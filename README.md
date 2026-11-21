@@ -1,5 +1,9 @@
- <div align="center">
-  <img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif" width="740" alt="Banner original"/>
+<div align="center">
+  <img
+    src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif"
+    width="100%"
+    alt="Banner futurista roxo e preto"
+  />
 </div>
 
 <div align="center">
