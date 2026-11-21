@@ -56,9 +56,9 @@ Aprimorar continuamente meus conhecimentos em desenvolvimento de software, explo
 
 # 📡 CONTATO
 
-     <a href="mailto:luanna_krull@hotmail.com">
-       <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
-     </a>
+<a href="mailto:luanna_krull@hotmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=C77DFF"/>
+</a>
 
 </div>
 
